@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+I’m a passionate Software Developer and Computer Science student with a strong interest in Java Full Stack Development, Cloud Computing, and scalable software solutions. I enjoy building practical applications, solving real-world problems, and continuously exploring new technologies.<br><br>💻 Experience & Leadership<br>• Cloud Engineer – Google Developers Group On Campus, AITR: Contributing to technical events, workshops, hackathons, and community initiatives while working with the organizing team.<br>• Frontend Developer Intern – Indore Municipal Corporation (IMC): Worked on a web-based Employee Record Management System, gaining hands-on experience in frontend development and real-world software implementation.<br><br>🏆 Achievements<br>• Track Winner – IKIGAI 2026 National Level Hackathon<br>• TCS CodeVita Global Rank 3418 – Season 14<br>• TCS CodeVita Global Rank 3271 – Season 13<br>• Google Cloud Skills Arcade – Champion Tier<br>• SIH 2025 Internal Round Qualifier<br>• 2nd Runner-Up – Start-Up Model, Acropolis Institute of Technology & Research<br>• 1st Prize – Start-Up Model, Shri Vaishnav Institute of Management<br><br>👯 I’m looking to collaborate on Open Source projects, Hackathons, Cloud initiatives, and innovative real-world projects.<br><br>🤝 I’m looking for help with Advanced Java, Spring Boot, Microservices, System Design, Cloud Architecture, and building scalable applications.<br><br>🌱 I’m currently learning Spring Boot, REST APIs, Microservices, Cloud Computing, DevOps, and improving my problem-solving skills.<br><br>💬 Ask me about Java, Full Stack Development, Cloud Computing, Google Cloud, Hackathons, and Technical Communities.<br><br>🎯 Currently, I’m focused on strengthening my Java Full Stack and Cloud skills, gaining meaningful industry experience, and building robust, scalable applications.<br><br>⚡ Fun fact: I enjoy turning ideas into practical projects, participating in hackathons, and solving problems through code.
 
-<!--
-**Shreyanshtiwarii/Shreyanshtiwarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyanshtiwariiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyansh-tiwari-a76857432) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tshreyansh029@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Shreyanshtiwarii&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Shreyanshtiwarii&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shreyanshtiwarii&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shreyanshtiwarii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shreyanshtiwarii&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
