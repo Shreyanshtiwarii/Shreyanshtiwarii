@@ -39,7 +39,7 @@ Working on technical events, workshops, hackathons & community initiatives.
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ IT Intern
+### 🖥️ Ex-IT Intern
 **Indore Municipal Corporation (IMC)**
 Built a web-based Employee Record Management System.
 
