@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shreyansh%20Tiwari%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Dev%20%7C%20Cloud%20%7C%20Building%20things%20that%20scale&descAlignY=55&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&duration=2800&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=%E2%98%81%EF%B8%8F+Cloud+Engineer+%40+GDG+On+Campus;%F0%9F%92%BB+IT+Intern+%40+Indore+Municipal+Corporation;%F0%9F%8F%86+Track+Winner+-+IKIGAI+2026+Hackathon;%E2%9C%85+SIH+2025+Internal+Round+Qualifier" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&duration=2800&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=%E2%98%81%EF%B8%8F+Cloud+Engineer+%40+GDG+On+Campus;%F0%9F%92%BB+Ex-IT+Intern+%40+Indore+Municipal+Corporation;%F0%9F%8F%86+Track+Winner+-+IKIGAI+2026+Hackathon;%E2%9C%85+SIH+2025+Internal+Round+Qualifier" alt="Typing SVG" />
 </a>
 
 &nbsp;
