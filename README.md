@@ -69,7 +69,7 @@ Built a web-based Employee Record Management System.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shreyanshtiwarii/Shreyanshtiwarii/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Shreyanshtiwarii/Shreyanshtiwarii/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 <sub>⚙️ Powered by a GitHub Action — set up once, updates automatically. Ask me for the workflow file if you haven't added it yet.</sub>
 
