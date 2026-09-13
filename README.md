@@ -1,21 +1,125 @@
-#  About Me:
-I’m a passionate Software Developer and Computer Science student interested in Java Full Stack Development, Cloud Computing, and scalable software solutions. I enjoy building practical applications, solving real-world problems, and exploring new technologies.<br><br>💻 Experience<br>• Cloud Engineer – Google Developers Group On Campus, AITR: Working on technical events, workshops, hackathons, and community initiatives.<br>• Frontend Developer Intern – Indore Municipal Corporation (IMC): Developed a web-based Employee Record Management System.<br><br>🏆 Achievements<br>• Track Winner – IKIGAI 2026 National Level Hackathon<br>• TCS CodeVita Global Rank 3418 – Season 14<br>• TCS CodeVita Global Rank 3271 – Season 13<br>• Google Cloud Skills Arcade – Champion Tier<br>• SIH 2025 Internal Round Qualifier<br>• 2nd Runner-Up – Start-Up Model, Acropolis Institute of Technology & Research<br>• 1st Prize – Start-Up Model, Shri Vaishnav Institute of Management<br>
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shreyansh%20Tiwari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Dev%20%7C%20Cloud%20%7C%20Building%20things%20that%20scale&descAlignY=55&descSize=18"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyanshtiwariiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyansh-tiwari-a76857432) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tshreyansh029@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%40+GDG+On+Campus;Track+Winner+-+IKIGAI+2026;Building+Java+%2B+Cloud+Solutions;SIH+2025+Internal+Round+Qualifier" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shreyanshtiwarii&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Shreyanshtiwarii&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shreyanshtiwarii&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=Shreyanshtiwarii&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shreyanshtiwarii&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+```yaml
+name: "Shreyansh Tiwari"
+role: "Software Developer | CS Student"
+focus: ["Java Full Stack", "Cloud Computing", "Scalable Systems"]
+currently: "Building practical apps & solving real-world problems"
+fun_fact: "Turns coffee into commits ☕ → 💻"
+```
+
+<br/>
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Engineer
+**Google Developers Group On Campus, AITR**
+Working on technical events, workshops, hackathons & community initiatives.
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Frontend Developer Intern
+**Indore Municipal Corporation (IMC)**
+Built a web-based Employee Record Management System.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🏅 Achievement | Details |
+|:---|:---|
+| 🥇 Track Winner | IKIGAI 2026 National Level Hackathon |
+| 🎯 TCS CodeVita | Global Rank 3418 – Season 14 |
+| 🎯 TCS CodeVita | Global Rank 3271 – Season 13 |
+| ☁️ Google Cloud Skills Arcade | Champion Tier |
+| ✅ SIH 2025 | Internal Round Qualifier |
+| 🥈 Start-Up Model | 2nd Runner-Up, AITR |
+| 🥇 Start-Up Model | 1st Prize, SVIM |
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Graph — Animated
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shreyanshtiwarii/Shreyanshtiwarii/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+<sub>⚙️ Powered by a GitHub Action — set up once, updates automatically. Ask me for the workflow file if you haven't added it yet.</sub>
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,py,firebase,gcp,netlify,vercel,spring,mysql,postgres,supabase,githubactions,git,github,hibernate&theme=dark&perline=10" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shreyanshtiwarii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshtiwarii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2" />
+
+<img src="https://streak-stats.demolab.com/?user=Shreyanshtiwarii&theme=tokyonight&hide_border=true&background=0d1117&ring=8A2BE2&fire=8A2BE2" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shreyanshtiwarii&theme=onedark&no-frame=true&margin-w=10&column=7" />
+
+</div>
+
+<br/>
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://instagram.com/shreyanshtiwariiii"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/shreyansh-tiwari-a76857432"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:tshreyansh029@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
