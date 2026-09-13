@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&duration=2800&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=%E2%98%81%EF%B8%8F+Cloud+Engineer+%40+GDG+On+Campus;%F0%9F%92%BB+IT+Intern+%40+Indore+Municipal+Corporation;%F0%9F%8F%86+Track+Winner+-+IKIGAI+2026+Hackathon;%E2%9C%85+SIH+2025+Internal+Round+Qualifier" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Shreyanshtiwarii&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Hackathons-8A2BE2?style=for-the-badge&logo=lightning&logoColor=white" />
 
