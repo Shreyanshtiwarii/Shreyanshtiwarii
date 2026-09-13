@@ -1,16 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shreyansh%20Tiwari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Dev%20%7C%20Cloud%20%7C%20Building%20things%20that%20scale&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shreyansh%20Tiwari%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Dev%20%7C%20Cloud%20%7C%20Building%20things%20that%20scale&descAlignY=55&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%40+GDG+On+Campus;Track+Winner+-+IKIGAI+2026;Building+Java+%2B+Cloud+Solutions;SIH+2025+Internal+Round+Qualifier" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&duration=2800&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=%E2%98%81%EF%B8%8F+Cloud+Engineer+%40+GDG+On+Campus;%F0%9F%92%BB+IT+Intern+%40+Indore+Municipal+Corporation;%F0%9F%8F%86+Track+Winner+-+IKIGAI+2026+Hackathon;%E2%9C%85+SIH+2025+Internal+Round+Qualifier" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Shreyanshtiwarii&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Hackathons-8A2BE2?style=for-the-badge&logo=lightning&logoColor=white" />
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:24243e,100:302b63&height=6&section=header"/>
 
 ## 🧠 About Me
 
@@ -37,7 +39,7 @@ Working on technical events, workshops, hackathons & community initiatives.
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ Frontend Developer Intern
+### 🖥️ IT Intern
 **Indore Municipal Corporation (IMC)**
 Built a web-based Employee Record Management System.
 
@@ -71,11 +73,11 @@ Built a web-based Employee Record Management System.
 
 <img src="https://raw.githubusercontent.com/Shreyanshtiwarii/Shreyanshtiwarii/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
-<sub>⚙️ Powered by a GitHub Action — set up once, updates automatically. Ask me for the workflow file if you haven't added it yet.</sub>
+<sub>⚙️ Powered by a GitHub Action — set up once, updates automatically.</sub>
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,100:0f0c29&height=6&section=header"/>
 
 ## 🛠️ Tech Stack
 
@@ -91,8 +93,8 @@ Built a web-based Employee Record Management System.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shreyanshtiwarii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshtiwarii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Shreyanshtiwarii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shreyanshtiwarii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2" />
 
 <img src="https://streak-stats.demolab.com/?user=Shreyanshtiwarii&theme=tokyonight&hide_border=true&background=0d1117&ring=8A2BE2&fire=8A2BE2" />
 
@@ -110,7 +112,7 @@ Built a web-based Employee Record Management System.
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:302b63,100:24243e&height=6&section=header"/>
 
 ## 🌐 Connect With Me
 
@@ -122,4 +124,4 @@ Built a web-based Employee Record Management System.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,50:302b63,100:24243e&height=150&section=footer"/>
