@@ -66,18 +66,6 @@ Built a web-based Employee Record Management System.
 
 <br/>
 
-## 🐍 Contribution Graph — Animated
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shreyanshtiwarii/Shreyanshtiwarii/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-<sub>⚙️ Powered by a GitHub Action — set up once, updates automatically.</sub>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,100:0f0c29&height=6&section=header"/>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
