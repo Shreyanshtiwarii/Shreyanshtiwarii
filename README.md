@@ -55,7 +55,7 @@ Built a web-based Employee Record Management System.
 | 🏅 Achievement | Details |
 |:---|:---|
 | 🥇 Track Winner | IKIGAI 2026 National Level Hackathon |
-| 🎯 TCS CodeVita | Global Rank 3418 – Season 14 |
+
 | 🎯 TCS CodeVita | Global Rank 3271 – Season 13 |
 | ☁️ Google Cloud Skills Arcade | Champion Tier |
 | ✅ SIH 2025 | Internal Round Qualifier |
